@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-_tflow_select==2.3.0
 absl-py==0.8.1
 astor==0.8.0
 blas==1.0
