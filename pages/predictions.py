@@ -23,7 +23,7 @@ from app import app
 column = dbc.Col([
     dcc.Markdown(
         """
-        # Upload your picture!
+        # Here you can upload your picture
         ### Please use a jpeg-file. The neural net expects width = 640 pixels and height = 480 pixels.
         > The app will adjust your picture to those dimensions. Please note that if the picture
         differs too strongly, the model might not work properly. 
