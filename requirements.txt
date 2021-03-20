@@ -26,7 +26,7 @@ hdf5==1.10.4
 icc_rt==2019.0.0
 intel-openmp==2019.4
 itsdangerous==1.1.0
-jinja2==2.10.3
+jinja2==2.11.3
 jpeg==9b
 keras==2.2.4
 keras-applications==1.0.8
