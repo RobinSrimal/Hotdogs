@@ -42,7 +42,7 @@ mkl==2019.4
 mkl-service==2.3.0
 mkl_fft==1.0.15
 mkl_random==1.1.0
-numpy==1.17.4
+numpy==1.22.0
 numpy-base==1.17.4
 olefile==0.46
 openssl==1.1.1d
