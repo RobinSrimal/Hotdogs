@@ -5,7 +5,7 @@ absl-py==0.8.1
 astor==0.8.0
 blas==1.0
 ca-certificates==2019.11.27
-certifi==2019.11.28
+certifi==2022.12.7
 click==7.0
 dash==1.4.1
 dash-bootstrap-components==0.8.1
