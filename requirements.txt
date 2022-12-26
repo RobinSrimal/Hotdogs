@@ -72,7 +72,7 @@ tk==8.6.8
 vc==14.1
 vs2015_runtime==14.16.27012
 werkzeug==0.16.0
-wheel==0.33.6
+wheel==0.38.1
 wincertstore==0.2
 wrapt==1.11.2
 xz==5.2.4
